@@ -45,3 +45,6 @@ nnoremap <C-J> <C-W><C-J>
 nnoremap <C-H> <C-W><C-H>
 nnoremap <C-K> <C-W><C-K>
 nmap <Leader>f :Files<CR>
+
+" Brennan's changes
+set autoindent
